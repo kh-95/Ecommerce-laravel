@@ -1,0 +1,1 @@
+<a href="{{route('profile',['id'=>$id])}}" class="btn btn-info" > <i class="fa fa-edit "></i>       </a>
